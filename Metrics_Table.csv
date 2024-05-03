@@ -1,0 +1,6 @@
+Organ,Accuracy (Real Images),Accuracy (Fake Images)
+Abdomen,99.2,99.7
+ChestCT,98.3,98.6
+CXR,99.02,99.13
+Hand,95.34,96
+Head,97.8,98.01
